@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925803349083",
+    "project_id": "quizzyy-2ccb9",
+    "storage_bucket": "quizzyy-2ccb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925803349083:android:ecf93233cd0e33bb092b7e",
+        "android_client_info": {
+          "package_name": "com.example.quizzyy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmQf60Aj6uixFZyPjFb61jDzUMESy2HCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
